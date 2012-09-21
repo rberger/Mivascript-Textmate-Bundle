@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;MvQUERY NAME="Merchant" QUERY="{ l.query }"${1: FIELDS="$2"} /&gt;</string>
+	<key>name</key>
+	<string>MvQUERY</string>
+	<key>tabTrigger</key>
+	<string>query</string>
+	<key>uuid</key>
+	<string>5B29AA96-A8EF-4E2F-B0F4-9C1E24A324CD</string>
+</dict>
+</plist>

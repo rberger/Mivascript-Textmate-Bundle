@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;MvASSIGN NAME="l.ii" VALUE="1" /&gt;
+&lt;MvASSIGN NAME="l.to" VALUE="${1:{ $2 \}}" /&gt;
+
+&lt;MvWHILE EXPR="{ l.ii LE l.to }"&gt;
+	$0
+	
+	&lt;MvASSIGN NAME="l.ii" VALUE="{ l.ii + 1 }" /&gt;
+&lt;/MvWHILE&gt;</string>
+	<key>name</key>
+	<string>MvWHILE iterator</string>
+	<key>tabTrigger</key>
+	<string>while</string>
+	<key>uuid</key>
+	<string>4C951299-7CAF-4E39-9809-7517601C0CD3</string>
+</dict>
+</plist>

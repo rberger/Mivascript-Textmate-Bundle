@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;MvFUNCTION NAME="$1" PARAMETERS="$2"&gt;
+	$0
+
+	&lt;MvFUNCTIONRETURN VALUE="{  }" /&gt;
+&lt;/MvFUNCTION&gt;</string>
+	<key>name</key>
+	<string>MvFUNCTION</string>
+	<key>tabTrigger</key>
+	<string>func</string>
+	<key>uuid</key>
+	<string>78475E00-9E7C-4C9C-96B2-ED26C48A46F9</string>
+</dict>
+</plist>

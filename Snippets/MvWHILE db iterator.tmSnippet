@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;MvOPENVIEW NAME="Merchant" VIEW="$1" QUERY="{ l.query }"${2: FIELDS="$3"} /&gt;
+&lt;MvWHILE EXPR="{ NOT $1.d.EOF }"&gt;
+	$0
+	
+	&lt;MvSKIP NAME="Merchant" VIEW="$1" /&gt;
+&lt;/MvWHILE&gt;
+&lt;MvCLOSEVIEW NAME="Merchant" VIEW="$1" /&gt;</string>
+	<key>name</key>
+	<string>MvWHILE db iterator</string>
+	<key>tabTrigger</key>
+	<string>while</string>
+	<key>uuid</key>
+	<string>51FA0080-E8AA-4D51-828B-AAE031F7D7FA</string>
+</dict>
+</plist>

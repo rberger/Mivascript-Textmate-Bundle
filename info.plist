@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>mainMenu</key>
+	<dict>
+		<key>items</key>
+		<array>
+			<string>6A6A9300-20A3-4DC9-83C4-ACA46542F6B3</string>
+			<string>------------------------------------</string>
+			<string>874F3340-1E85-4013-B061-31C6D99A78F1</string>
+			<string>98B39F85-9F40-4330-AF05-6FB7959C9920</string>
+			<string>45634608-1370-4AD5-B469-E9CF0C80B9D0</string>
+			<string>C96153E6-ACA9-4126-A0A4-734C0C882D18</string>
+			<string>78475E00-9E7C-4C9C-96B2-ED26C48A46F9</string>
+			<string>008C25FB-C831-49BC-9075-343ABB9FCDB1</string>
+			<string>D6303D24-B2F6-40BE-BC60-8A146AAAD488</string>
+			<string>4C951299-7CAF-4E39-9809-7517601C0CD3</string>
+			<string>872E1AD8-3138-4809-89E4-A770E9A48820</string>
+		</array>
+		<key>submenus</key>
+		<dict>
+			<key>6A6A9300-20A3-4DC9-83C4-ACA46542F6B3</key>
+			<dict>
+				<key>items</key>
+				<array>
+					<string>5DD973D1-1055-4F3B-A822-4C2B40CD3E25</string>
+					<string>039C8E96-DDF2-4368-A04F-21C9D9619302</string>
+					<string>295A61C3-694C-49AA-99C2-6F52752C356C</string>
+				</array>
+				<key>name</key>
+				<string>Compile</string>
+			</dict>
+		</dict>
+	</dict>
+	<key>name</key>
+	<string>Miva Script</string>
+	<key>ordering</key>
+	<array>
+		<string>5DD973D1-1055-4F3B-A822-4C2B40CD3E25</string>
+		<string>039C8E96-DDF2-4368-A04F-21C9D9619302</string>
+		<string>295A61C3-694C-49AA-99C2-6F52752C356C</string>
+		<string>CA2E227E-7D34-48A7-A86D-63371377CEAC</string>
+		<string>7802F61B-2A5C-48C0-B11E-870540D0B73E</string>
+		<string>874F3340-1E85-4013-B061-31C6D99A78F1</string>
+		<string>98B39F85-9F40-4330-AF05-6FB7959C9920</string>
+		<string>C96153E6-ACA9-4126-A0A4-734C0C882D18</string>
+		<string>45634608-1370-4AD5-B469-E9CF0C80B9D0</string>
+		<string>78475E00-9E7C-4C9C-96B2-ED26C48A46F9</string>
+		<string>4AAA3517-7987-46F0-BAB0-CDC948D0703E</string>
+		<string>008C25FB-C831-49BC-9075-343ABB9FCDB1</string>
+		<string>5B29AA96-A8EF-4E2F-B0F4-9C1E24A324CD</string>
+		<string>F87BC98C-D002-4468-9A0E-A44F34CAE393</string>
+		<string>D6303D24-B2F6-40BE-BC60-8A146AAAD488</string>
+		<string>4C951299-7CAF-4E39-9809-7517601C0CD3</string>
+		<string>51FA0080-E8AA-4D51-828B-AAE031F7D7FA</string>
+		<string>235B9565-E24F-41A7-B422-09C544FB6522</string>
+		<string>5E4EFB11-77B6-461F-893D-73B60E7A9D11</string>
+	</array>
+	<key>uuid</key>
+	<string>D1620B39-6CA2-4891-8F1A-219B88B08826</string>
+</dict>
+</plist>
